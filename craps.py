@@ -1,5 +1,6 @@
 from random import randint
 
+
 def newCraps(sum):
     print(f'Now your goal number is {sum}')
     isWin = True
